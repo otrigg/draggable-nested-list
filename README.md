@@ -10,7 +10,7 @@ A Laravel/VueJs based demo app that creates and saves a reactive **nested list**
 * Frontend: [VueJs](https://github.com/vuejs)
 * Backend: [Laravel](https://github.com/laravel/laravel)
 
-## Dependecies
+## Dependencies
 * [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)
 * [Vue-Easy-Notify](https://github.com/AhmadWaleed/vue-easy-notify)
 
